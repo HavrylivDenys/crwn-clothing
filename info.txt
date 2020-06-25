@@ -1,0 +1,10 @@
+ var firebaseConfig = {
+    apiKey: "AIzaSyDndWmq94b0N6I6pICkbHHIcaZWAIer2cU",
+    authDomain: "crwn-chothing.firebaseapp.com",
+    databaseURL: "https://crwn-chothing.firebaseio.com",
+    projectId: "crwn-chothing",
+    storageBucket: "crwn-chothing.appspot.com",
+    messagingSenderId: "30152512403",
+    appId: "1:30152512403:web:c81a78560e5ed9edb08e66",
+    measurementId: "G-05XZLZXEQV"
+  };
