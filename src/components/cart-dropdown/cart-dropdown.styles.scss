@@ -12,7 +12,7 @@
   z-index: 5;
 
   ::-webkit-scrollbar {
-    width: 0.3vw;
+    width: 3px;
   }
   
   /* Track */
@@ -30,11 +30,16 @@
     background: rgb(155, 5, 5);
   }
 
+  .empty-message {
+    font-size: 18px;
+    margin: auto;
+  }
+
   .cart-items {
     height: 240px;
     display: flex;
     flex-direction: column;
-    overflow-y: scroll;    
+    overflow-y: auto;    
   }
 
   button {
